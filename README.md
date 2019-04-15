@@ -1,0 +1,1 @@
+Add own API key from https://newsapi.org/
